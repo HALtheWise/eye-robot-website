@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Copyright 2015 Ahmet Cecen and MINED Group @ Gatech
 
 Licensed under the Apache License, Version 2.0 (the "License");

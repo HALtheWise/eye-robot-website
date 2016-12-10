@@ -1,4 +1,6 @@
-
+---
+published: false
+---
 # Project Timeline
 
 Our semester long project proceeded in the following chronological order

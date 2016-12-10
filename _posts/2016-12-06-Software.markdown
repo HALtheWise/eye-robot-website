@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Software Design
-author:     ---
+author:     Eric
 tags: 		design
 subtitle:  	Some Short Description of Post
 category:   project1
@@ -14,6 +14,23 @@ published: true
 
 * TOC
 {:toc}
+
+# System Overview
+
+![System diagram]({{ site.baseurl }}/img/control-system-diagram.png)
+
+Due to the nature of a telepresence robot, our system needed to execute code on three different systems
+- The user's device (through a web browser)
+- The Raspberry Pi on the robot (for connecting video and audio data to the internet)
+- The Arduino on the robot (for low-level control of motors)
+
+# Interdevice links
+## Raspberry Pi <-> Arduino
+
+## Computer <-> (control data) <-> Robot
+
+## Computer <-> (audio-video data) <-> Robot
+
 
 
 [Edit me!](https://github.com/HALtheWise/eye-robot-website/tree/master/_posts)

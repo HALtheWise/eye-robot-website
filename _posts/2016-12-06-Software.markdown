@@ -3,7 +3,7 @@ layout:     post
 title:      Software Design
 author:     Eric
 tags: 		design
-subtitle:  	Some Short Description of Post
+subtitle:  	An overview of the software architecture on the robot
 category:   project1
 
 published: true
@@ -12,6 +12,7 @@ published: true
 
 <!-- Table of Contents -->
 
+# Table of Contents
 * TOC
 {:toc}
 
@@ -25,13 +26,16 @@ Due to the nature of a telepresence robot, our system needed to execute code on 
 - The Arduino on the robot (for low-level control of motors)
 
 # Interdevice links
+
 ## Raspberry Pi <-> Arduino
 
 ## Computer <-> (control data) <-> Robot
 
 ## Computer <-> (audio-video data) <-> Robot
 
+# Reliability and Efficiency
 
+# Lessons Learned
 
 [Edit me!](https://github.com/HALtheWise/eye-robot-website/tree/master/_posts)
 

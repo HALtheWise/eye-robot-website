@@ -2,9 +2,9 @@
 layout:     post
 title:      Structure and Mechanical Design
 author:     ---
-tags: 		design
+# tags: 		design
 subtitle:  	Some Short Description of Post
-category:   project1
+category:   design
 
 published: true
 ---

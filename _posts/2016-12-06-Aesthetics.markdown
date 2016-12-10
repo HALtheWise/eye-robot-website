@@ -2,9 +2,9 @@
 layout:     post
 title:      Aesthetic design
 author:     ---
-tags: 		design
+# tags: 		design
 subtitle:  	Some Short Description of Post
-category:   project1
+category:   design
 
 published: true
 ---

@@ -2,9 +2,9 @@
 layout:     post
 title:      Software Design
 author:     Eric
-tags: 		design
+# tags: 		design
 subtitle:  	An overview of the software architecture on the robot
-category:   project1
+category:   design
 
 published: true
 ---

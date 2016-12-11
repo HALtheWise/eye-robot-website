@@ -21,7 +21,7 @@ category:   sprint-review
 
 <p> Our controls system underwent some minor changes. We made relaibility improvements to ensure the robot would bring itself back online after a power cycle and added another motor controller to handle the higher current drawn by our new motors. </p>
 
-<p> Sprint three taught us that the mechanical changes we had left to make would likely consume our time without adding features past our minumum viable product. It also taught us to consider assembly time in design and buy quality compnents earlier to get a better idea of what user experience will be like like. Going into our last two weeks, the team targeted reliability as our last remaining major risk. Knowing that an unreliable system would be useless to the end user, we decided to spend our last sprint testing and debugging the robot instead of adding new features </p>
+<p> Sprint three taught us that the mechanical changes we had left to make would likely consume our time without adding features past our minumum viable product. It also taught us to consider assembly time in design and buy quality compnents earlier to get a better idea of what user experience will be like like. Going into our last two weeks, the team targeted reliability as our last remaining major risk. Knowing that an unreliable system would be useless to the end user, we decided to spend our last two weeks testing and debugging the robot instead of adding new features </p>
 
 
 <!-- [Link to Google](https://www.google.com) -->

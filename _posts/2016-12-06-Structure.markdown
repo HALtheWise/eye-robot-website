@@ -37,7 +37,7 @@ The tilt assembly consists of a servo mounted to the pan mechanism and a coaxial
 
 The body houses the remainder of the robot electronics, including the Arduino, motor controller, and batteries. It also serves as a structural path between the robot’s drivetrain and head. Eye-Robot is designed to be easily accessible and maintainable. The body’s large front plate is easily removable via a few screws to allow and the cavernous space inside provides plenty of room to work.
 
-![System diagram]({{ site.baseurl }}/img/fasetner_render.png)
+![System diagram]({{ site.baseurl }}/img/fasetner__render.png)
 
 
 The body construction of laser-cut 1/8 inch plywood with Mortise and Tenon joints and T-slot fasteners running down every edge allows for a stiff, robust system that can take dings and crashes. 

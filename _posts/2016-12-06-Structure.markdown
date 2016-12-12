@@ -10,10 +10,6 @@ published: true
 ---
 <!-- Start Writing Below in Markdown -->
 
-<!-- Table of Contents -->
-#Table of Contents
-* TOC
-{:toc}
 
 # Head and Gimbal
 

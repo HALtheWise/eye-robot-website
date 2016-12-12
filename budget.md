@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Budget"
+title: "Bill of Materials"
 description: ""
 #header-img: "img/home-bg.jpg"
 ---

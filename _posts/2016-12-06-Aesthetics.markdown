@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Aesthetic design
-author:     Jonah
+author:     Arpan
 # tags: 		design
 subtitle:  	A thin shell can make a big difference
 category:   design

@@ -3,7 +3,7 @@ layout:     post
 title:      Electrical System
 author:     Eric
 # tags: 		design
-subtitle:  	Some Short Description of Post
+subtitle:  	Wires, wires, wires...
 category:   design
 image:		/img/Electrical_square.JPG
 

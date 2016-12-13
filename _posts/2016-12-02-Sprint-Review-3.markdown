@@ -14,7 +14,7 @@ Our third Sprint was focused around iterating on our third sprint to produce a f
 
 ![Sprint 3 Head]({{ site.baseurl }}/img/Sprint3Head.jpg)
 
-We rebuilt the entire robot to be stiffer, more responsive, and easier to maintain. We moved the raspberry pi and gimbal pan servo into the head of the robot, building a robust and rigid 3d printed bearing system. We added speakers and a microphone to the head and switched the camera out to the final, wide angle rasberry pi camera that we intended to use.
+Knowing that our sprint two MVP had been floppy,slow, and hard to work on, we rebuilt the entire robot to be stiffer, more responsive, and easier to maintain. We moved the raspberry pi and gimbal pan servo into the head of the robot, building a robust and rigid 3d printed bearing system. We added speakers and a microphone to the head and switched the camera out to the final, wide angle rasberry pi camera that we intended to use.
 
 ![Sprint 3 Drivetrain]({{ site.baseurl }}/img/Sprint3Drivetrain.jpg)
 

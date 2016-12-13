@@ -9,9 +9,6 @@ category:   sprint-review
 <!-- Start Writing Below in Markdown -->
 
 
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQD4b-YE17ESdS7082HWNQrv6eXjqZPW6zOFu8wyNbf6jWwPRlE3e-wO5PSyX2jk1dGyYkUsNW1Lovb/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1170" height="681" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 In feedback from our first sprint, we were encouraged to decide a specific application and user experience for the robot.Early in the second sprint, we decided to focus on prospective students using the robot to visit the Olin Library. Realizing that the experience would now be about interacting with Olin Students in the library, We made some modifications to our product goals, prioritizing web access and a smooth end user experience over having a VR viewer and immersive experience.
 
 ![Eye Robot Experience]({{ site.baseurl }}/img/eyerobotexperience.png)

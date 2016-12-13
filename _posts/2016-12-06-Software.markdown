@@ -52,6 +52,8 @@ Using Websockets for the primary command transmission mechanism allowed us to wr
 
 ## Computer <-> (audio-video data) <-> Robot
 
+Because streaming live video requires significantly more processing and bandwidth availability, it is not possible for custom-written code 
+
 # Reliability and Efficiency
 
 # Lessons Learned

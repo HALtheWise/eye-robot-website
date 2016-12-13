@@ -10,8 +10,6 @@ category:   sprint-review
 
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMl08x10zIRdb5I1dDOkngbKSJFNGaBwYYbRmvsZ6HnpTv9-92c4wbgG4tJ7PpTdfe0Ze8WAMCBRoa/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1170" height="681" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 As of sprint one, our goal was to create an immersive experience where, by putting on a google cardboard viewer, a user could look through the eyes of a tiny robot. 
 
 ![Cardboard Viewer]({{ site.baseurl }}/img/Cardboard_Viewer.jpg)

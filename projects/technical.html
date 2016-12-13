@@ -7,10 +7,10 @@ description: "What we made, and how it works"
 {% for post in site.posts %}
 {% if post.category == "design" %}
 <div style="{% if post.image %}height: 300px;{% endif %}" class="post-preview">
-    {% if post.image %}
-    <img width="270px" height="270px" style="float: right; margin-left: 15px" src="{{site.baseurl}}{{post.image}}">
-    {% endif %}
     <a href="{{ post.url | prepend: site.baseurl }}">
+        {% if post.image %}
+        <img width="270px" height="270px" style="float: right; margin-left: 15px" src="{{site.baseurl}}{{post.image}}">
+        {% endif %}
         <h2 class="post-title">            {{ post.title }}
         </h2>
         {% if post.subtitle %}

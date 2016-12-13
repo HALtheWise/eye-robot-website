@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Our Story"
-description: "Slides and data from our sprint reviews"
+description: "How we got to where we are"
 # header-img: "img/home-bg.jpg"
 category: sprint-review
 ---

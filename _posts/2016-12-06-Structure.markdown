@@ -42,7 +42,7 @@ The body construction of laser-cut 1/8 inch plywood with Mortise and Tenon joint
 ![Robot Drivetrain]({{ site.baseurl }}/img/drivetrain_render.png)
 
 
-The drivetrain was designed with robustness and easy of maintenance in mind. The robot’s two drive gear motors are further reduced 2:1 by a 3D printed reduction to allow for plenty of torque to cross any obstacles that might be in the robot’s way. 3D printed sliding tensioners allow for easy tensioning of the tread system, which is designed to provide a balance between having a large wheelbase for balance and having obstacle-crossing ability. 
+The drivetrain was designed with robustness and ease of maintenance in mind. The robot’s two drive gear motors are further reduced 2:1 by a 3D printed reduction to allow for plenty of torque to cross any obstacles that might be in the robot’s way. 3D printed sliding tensioners allow for easy tensioning of the tread system, which is designed to provide a balance between having a large wheelbase for balance and having obstacle-crossing ability. 
 
 
 [Check out our CAD here!](https://workbench.grabcad.com/workbench/projects/gc5CccgZbG69Ye2VdF1QV3mMdk6OAbp13Nvs5faDR5qIlN#/space/gc_UQgANNni6tVCOOWOJi7vrluBssNIJ_zcJZfqpfFr7fG)

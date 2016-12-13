@@ -17,8 +17,6 @@ published: true
 * TOC
 {:toc}
  -->
-# System Overview
-
 
 ![System diagram]({{ site.baseurl }}/img/controlsystemfinal.png)
 

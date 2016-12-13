@@ -30,7 +30,7 @@ By the end of the first sprint, We had an android app on the phone displaying an
 
 ![Sprint 1 product]({{ site.baseurl }}/img/Sprint1_Product.jpg)
 
-![Sprint 1 Phone Image]({{ site.baseurl }}/img/Phone_image.jpg)
+![Sprint 1 Phone Image]({{ site.baseurl }}/img/Phone_Image.jpg)
 
 
 

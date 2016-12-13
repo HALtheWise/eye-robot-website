@@ -5,6 +5,7 @@ author:     ---
 # tags: 		design
 subtitle:  	Some Short Description of Post
 category:   design
+image: 		/img/des_preview.png
 
 published: true
 ---

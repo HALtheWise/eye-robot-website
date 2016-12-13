@@ -36,7 +36,7 @@ By the end of the first sprint, We had an android app on the phone displaying an
 
 Through the course of our sprint, we learned that the google cardboard and immersive aspects of our project would be the hardest to implement. Performance limitations on the phone made mjpeg streaming at high framerates a difficult problem to solve, and the learning curve to use the google caradboard API was incredible steep. We also learned that we had to plan for our team member avaliability in advance so we weren't missing team members through our crunch time, and make sure that we were all working towards our goals at all times. 
 
-<iframe style="margin-left: auto; margin-right: auto;" width="700" height="450" src="https://www.youtube.com/watch?v=9tYydngPJJE" frameborder="0" allowfullscreen></iframe>
+<iframe style="margin-left: auto; margin-right: auto;" width="700" height="450" src="https://www.youtube.com/embed/9tYydngPJJE" frameborder="0" allowfullscreen></iframe>
 
 
 

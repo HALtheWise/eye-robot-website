@@ -60,6 +60,7 @@ Because streaming live video requires significantly more processing and bandwidt
 1. Linux's builtin ability to start scripts when the system boots is really nice, but makes it difficult to keep all your code in one place
 1. Unlike with hardware, rebuilding software systems from scratch is rarely necessary. Structure the code such that it can be build on gradually.
 
+[Check out all our software at our github repo!](https://github.com/HALtheWise/eye-robot)
 
 <!-- [Link to Google](https://www.google.com) -->
 <!-- ![Image embed]({{ site.baseurl }}/img/Logo_Fairy_Tail_right.png) -->

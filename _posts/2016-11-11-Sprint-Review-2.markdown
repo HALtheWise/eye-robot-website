@@ -9,7 +9,7 @@ category:   sprint-review
 <!-- Start Writing Below in Markdown -->
 
 
-In feedback from our first sprint, we were encouraged to decide a specific application and user experience for the robot.Early in the second sprint, we decided to focus on prospective students using the robot to visit the Olin Library. Realizing that the experience would now be about interacting with Olin Students in the library, We made some modifications to our product goals, prioritizing web access and a smooth end user experience over having a VR viewer and immersive experience.
+In feedback from our first sprint, we were encouraged to decide a specific application and user experience for the robot.Early in the second sprint, we decided to focus on prospective students using the robot to visit the Olin Library. Realizing that the experience would now be about interacting with Olin Students in the library, We made some modifications to our product goals, prioritizing web access and a smooth end user experience over having a VR viewer and immersive experience - which our last sprint had taught us would be extremely difficult.
 
 ![Eye Robot Experience]({{ site.baseurl }}/img/eyerobotexperience.png)
 

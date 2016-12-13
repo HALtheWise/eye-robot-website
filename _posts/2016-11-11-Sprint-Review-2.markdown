@@ -3,7 +3,7 @@ layout:     gslides
 title:      Sprint 2
 # author:     Eric
 tags: 		
-subtitle:  	Achieving our Minimum viable Product
+subtitle:  	Achieving our Minimum Viable Product
 category:   sprint-review
 ---
 <!-- Start Writing Below in Markdown -->

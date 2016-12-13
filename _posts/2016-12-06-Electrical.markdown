@@ -5,6 +5,7 @@ author:     Eric
 # tags: 		design
 subtitle:  	Some Short Description of Post
 category:   design
+image:		/img/Electrical_square.JPG
 
 published: true
 ---

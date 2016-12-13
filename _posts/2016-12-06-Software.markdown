@@ -19,9 +19,8 @@ published: true
  -->
 # System Overview
 
-TODO: replace phone with laptop
 
-![System diagram]({{ site.baseurl }}/img/control-system-diagram.png)
+![System diagram]({{ site.baseurl }}/img/controlsystemfinal.png)
 
 Due to the nature of a telepresence robot, our system needed to execute code on three different systems
 - The user's device (through a web browser)

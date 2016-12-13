@@ -30,9 +30,7 @@ By the end of the first sprint, We had an android app on the phone displaying an
 
 ![Sprint 1 product]({{ site.baseurl }}/img/Sprint1_Product.jpg)
 
-![Sprint 1 Phone Image]({{ site.baseurl }}/img/Phone_image.jpg)
-
-
+![Sprint 1 Phone Image]({{ site.baseurl }}/img/Phone_Image.jpg)
 
 Through the course of our sprint, we learned that the google cardboard and immersive aspects of our project would be the hardest to implement. Performance limitations on the phone made mjpeg streaming at high framerates a difficult problem to solve, and the learning curve to use the google caradboard API was incredible steep. We also learned that we had to plan for our team member avaliability in advance so we weren't missing team members through our crunch time, and make sure that we were all working towards our goals at all times. 
 

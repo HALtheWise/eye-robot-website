@@ -3,7 +3,7 @@ layout:     gslides
 title:      Sprint 1
 # author:     Eric
 tags: 		
-subtitle:  	Pivoting into Telepresence
+subtitle:  	Prototyping our Controls System
 category:   sprint-review
 ---
 <!-- Start Writing Below in Markdown -->

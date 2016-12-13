@@ -45,8 +45,7 @@ Sprint two taught us that we had to design our system to be mechanically service
 
 Going into sprint three, our largest standing risk was reliability. We were also worried about better defining our user interaction with the robot and, given that the sprint had involved a huge time commitment from the team, team burnout. For our next sprint, we wanted to focus on creating a useful and pleasing experience for the user.
 
-
-
+<iframe style="margin-left: auto; margin-right: auto;" width="700" height="450" src="https://www.youtube.com/embed/7C74S48pjhA" frameborder="0" allowfullscreen></iframe>
 
 
 <!-- [Link to Google](https://www.google.com) -->

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Structure and Mechanical Design
-author:     ---
+author:     Arpan
 # tags: 		design
 subtitle:  	The bits inside that hold everything together
 category:   design

@@ -12,8 +12,6 @@ category:   sprint-review
 
 As of sprint one, our goal was to create an immersive experience where, by putting on a google cardboard viewer, a user could look through the eyes of a tiny robot. 
 
-![Cardboard Viewer]({{ site.baseurl }}/img/Cardboard_Viewer.jpg)
-
 As such, we defined our minimum viable product as a mobile platform that streamed video from a single camera to a google cardboard virtual reality viewer. We also wanted to ideally make our experience truly immersive , provide web access, and have some sort of a manipulator on the robot that the user could control.
 
 We recognized that one of our highest areas of technical risk was the connections between the many pieces of software and hardware that would be needed to control eye-robot. In order to buy down this risk, we sought to build a system that demonstrated all of the key hardware and software connections we'd need. 

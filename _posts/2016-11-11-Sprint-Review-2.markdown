@@ -13,7 +13,7 @@ In feedback from our first sprint, we were encouraged to decide a specific appli
 
 ![Eye Robot Experience]({{ site.baseurl }}/img/eyerobotexperience.png)
 
-In order to have the experience we wanted, we knew our robot would have to be deployed in the robot for extended periods of time without our intervention. As such, it had to be robust. Thinking that it would be difficult to simultaneously chase reliability and new features, we decided to deliver our mimimum viable product by the end of our second sprint.
+In order to have the experience we wanted, we knew our robot would have to be deployed in the library for extended periods of time without our intervention. As such, it had to be robust. Thinking that it would be difficult to simultaneously chase reliability and new features, we decided to deliver our mimimum viable product by the end of our second sprint.
 
 ![Sketch Modeling]({{ site.baseurl }}/img/sketchmodeling.jpg)
 

@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      Aesthetic design
-author:     ---
+author:     Jonah
 # tags: 		design
-subtitle:  	Some Short Description of Post
+subtitle:  	A thin shell can make a big difference
 category:   design
 image: 		/img/des_preview.png
 

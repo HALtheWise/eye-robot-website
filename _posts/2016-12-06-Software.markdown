@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Software and Electrical Design
+title:      Software Design
 author:     Eric
 # tags: 		design
-subtitle:  	An overview of the software architecture on the robot
+subtitle:  	Making the systems talk
 category:   design
 image:		/img/code_preview.png
 

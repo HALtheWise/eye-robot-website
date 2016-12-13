@@ -3,7 +3,7 @@ layout:     post
 title:      Structure and Mechanical Design
 author:     ---
 # tags: 		design
-subtitle:  	Some Short Description of Post
+subtitle:  	The bits inside that hold everything together
 category:   design
 image: 		/img/mech_preview.png
 

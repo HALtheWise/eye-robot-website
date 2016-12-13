@@ -5,6 +5,7 @@ author:     Eric
 # tags: 		design
 subtitle:  	An overview of the software architecture on the robot
 category:   design
+image:		/img/code_preview.png
 
 published: true
 ---

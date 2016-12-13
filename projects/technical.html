@@ -6,7 +6,10 @@ description: "What we made, and how it works"
 
 {% for post in site.posts %}
 {% if post.category == "design" %}
-<div class="post-preview">
+<div style="{% if post.image %}height: 300px;{% endif %}" class="post-preview">
+    {% if post.image %}
+    <img width="270px" height="270px" style="float: right; margin-left: 15px" src="{{site.baseurl}}{{post.image}}">
+    {% endif %}
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
         </h2>

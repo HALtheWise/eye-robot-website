@@ -12,10 +12,10 @@ published: true
 
 <!-- Table of Contents -->
 
-# Table of Contents
+<!-- # Table of Contents
 * TOC
 {:toc}
-
+ -->
 # System Overview
 
 TODO: replace phone with laptop
@@ -28,8 +28,6 @@ Due to the nature of a telepresence robot, our system needed to execute code on 
 - The Arduino on the robot (for low-level control of motors)
 
 The majority of the electical and software systems created for this project serve to complete these various links between devices, enabling the robot to move from commands sent over the internet as reliably as possible.
-
-# Electrical Systems
 
 # Software Systems
 
@@ -52,15 +50,14 @@ Using Websockets for the primary command transmission mechanism allowed us to wr
 
 ## Computer <-> (audio-video data) <-> Robot
 
-Because streaming live video requires significantly more processing and bandwidth availability, it is not possible for custom-written code 
-
-# Reliability and Efficiency
+Because streaming live video requires significantly more processing and bandwidth availability, it is not possible for custom-written code to perform at the level we needed. To resolve this, we configured an open-source daemon called `UV4L` to read video from the camera, encode the data, and transmit the result over the internet. Because `UV4L` is highly optimized for the Raspberry Pi, it is able to use the hardware-accelerated MP4 encoders, allowing for full HD streaming when the internet connection allows.
 
 # Lessons Learned
 
-[Edit me!](https://github.com/HALtheWise/eye-robot-website/tree/master/_posts)
-
-
+1. Use existing libraries and formats whenever possible, especially for recording and processing video.
+1. To create a reliable system, make sure that every piece can detect failures and restart itself.
+1. Linux's builtin ability to start scripts when the system boots is really nice, but makes it difficult to keep all your code in one place
+1. Unlike with hardware, rebuilding software systems from scratch is rarely necessary. Structure the code such that it can be build on gradually.
 
 
 <!-- [Link to Google](https://www.google.com) -->

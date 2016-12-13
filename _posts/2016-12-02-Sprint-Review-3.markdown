@@ -3,7 +3,7 @@ layout:     gslides
 title:      Sprint 3
 # author:     Eric
 tags: 		
-subtitle:  	Rebuild with Nice Parts
+subtitle:  	Adding Polish to Eye-Robot
 category:   sprint-review
 ---
 <!-- Start Writing Below in Markdown -->
